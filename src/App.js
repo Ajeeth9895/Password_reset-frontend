@@ -7,7 +7,7 @@ import ForgetPassword from './components/ForgetPassword';
 import ResetPassword from './components/ResetPassword';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
- export const url = "https://password-reset-oeh2.onrender.com"
+ export const url = "https://password-reset-aqsf.onrender.com"
 
 function App() {
   return <>
